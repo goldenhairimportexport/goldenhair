@@ -783,7 +783,8 @@
 /** end contact **/
 /** footer **/
  .footer {
-     background: #011016;
+    background: #14ade9;
+    /** background: #011016;**/
      padding-top:90px;
 }
  .footer .img-box {
